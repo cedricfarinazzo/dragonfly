@@ -59,6 +59,7 @@ class LanguageSpecificLoader(object):
                     "id":  "dragonfly.language.id",
                     "ms":  "dragonfly.language.ms",
                     "nl":  "dragonfly.language.nl",
+                    "fr":  "dragonfly.language.fr",
                    }
 
 
