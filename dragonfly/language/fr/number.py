@@ -85,7 +85,7 @@ int_100s        = MagnitudeIntBuilder(
                   )
 int_100big      = MagnitudeIntBuilder(
                    factor      = 100,
-                   spec        = "[<multiplier>] cenq [<remainder>]",
+                   spec        = "[<multiplier>] cent [<remainder>]",
                    multipliers = [int_10_19, int_20_99],
                    remainders  = [int_and_1_99]
                   )
